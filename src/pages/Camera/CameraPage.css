@@ -1,0 +1,8 @@
+.camera-header {
+  font-size: 16px;
+  text-align: right;
+  font-weight: bold;
+  cursor: default;
+  -ms-user-select: none;
+  user-select: none;
+}

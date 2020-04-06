@@ -1,0 +1,22 @@
+{
+    "alertStatus": "2",
+    "cameraName": "Camera_1",
+    "ownerId": 4,
+    "plateNumber": "30E92115",
+    "vehicleImg": "media/plate/1576226875137.jpg",
+    "plateImg": "media/plate/1576226875139.jpg",
+    "overview": "media/plate/1576226875140.jpg",
+    "createdDate": "2019-12-13 15:55:39",
+    "owner": {
+        "id": 4,
+        "fullName": "Luong The Hung",
+        "phoneNumber": "0973557404",
+        "gender": "F",
+        "dateOfBirth": "2019-02-04",
+        "placeOfBirth": "HN",
+        "avatar": "media/avatar/default-avatar.png",
+        "plateNumber": "38A22222",
+        "vehicleType": "Audi",
+        "createdDate": "2019-12-04 16:05:53"
+    }
+}
